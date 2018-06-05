@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/scrollView1"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:textColor="@color/red"
+        android:layout_marginTop="10dp"
+        android:id="@+id/editText1"
+        android:textAlignment="center"
+        android:text="Disclaimer : For any clarifications regarding the rules contact the corresponding event coordinators.\n"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/editText2"
+        android:layout_below="@+id/editText1"
+        android:text="1. For every event there will be 3 top positions and they carry following points:"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+
+
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/cellborder"
+                android:paddingBottom="6dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="6dp"
+                android:text="@string/s1"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="13sp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/cellborder"
+                android:paddingBottom="6dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="6dp"
+                android:textAlignment="center"
+                android:text="@string/s2"
+                android:textColor="@color/black"
+                android:textSize="13sp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/cellborder"
+                android:paddingBottom="6dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="6dp"
+                android:textAlignment="center"
+                android:text="@string/s3"
+                android:textColor="@color/black"
+                android:textSize="13sp"
+                android:textStyle="bold" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellborder"
+                android:paddingBottom="6dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="6dp"
+                android:textAlignment="center"
+                android:text="@string/s4"
+                android:textColor="@color/black"
+                android:textSize="13sp" />
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellborder"
+                android:paddingBottom="6dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="6dp"
+                android:text="@string/s5"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="13sp" />
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellborder"
+                android:paddingBottom="6dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="6dp"
+                android:textAlignment="center"
+                android:text="@string/s6"
+                android:textColor="@color/black"
+                android:textSize="13sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellborder"
+                android:textAlignment="center"
+                android:paddingBottom="6dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="6dp"
+                android:text="@string/s7"
+                android:textColor="@color/black"
+                android:textSize="13sp" />
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellborder"
+                android:paddingBottom="6dp"
+                android:textAlignment="center"
+                android:paddingLeft="3dp"
+                android:paddingTop="6dp"
+                android:text="@string/s8"
+                android:textColor="@color/black"
+                android:textSize="13sp" />
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textAlignment="center"
+                android:background="@drawable/valuecellborder"
+                android:paddingBottom="6dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="6dp"
+                android:text="@string/s9"
+                android:textColor="@color/black"
+                android:textSize="13sp" />
+        </TableRow>
+
+
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellborder"
+                android:paddingBottom="6dp"
+                android:paddingLeft="3dp"
+                android:textAlignment="center"
+                android:paddingTop="6dp"
+                android:text="@string/s10"
+                android:textColor="@color/black"
+                android:textSize="13sp" />
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellborder"
+                android:paddingBottom="6dp"
+                android:paddingLeft="3dp"
+                android:paddingTop="6dp"
+                android:text="@string/s11"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="13sp" />
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/valuecellborder"
+                android:paddingBottom="6dp"
+                android:paddingLeft="3dp"
+                android:textAlignment="center"
+                android:paddingTop="6dp"
+                android:text="@string/s12"
+                android:textColor="@color/black"
+                android:textSize="13sp" />
+        </TableRow>
+
+
+
+
+    </TableLayout>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:textColor="@color/black"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/editText2"
+        android:text="2. If participants do not follow the rules, especially regarding punctuality and vulgarity, and/or misbehave either with the organizers/support staff (including those of external agencies) and/or advertise, directly or indirectly, for any company (by wearing costumes or any accessories bearing the name of the company or its brand) they will not only be disqualified for the event but also will be banned from UTSAV forever.  \n\n3. To avoid disputes regarding time, time will be kept by AV personnel and displayed prominently. When the participants exceed the time limit, lights and sounds will be automatically switched off. All participants to please note this and co-operate.   \n\n4. On stage practice sessions will be allotted by MU CCC between 7 and 11 am on the days of UTSAV. All staff coordinators are requested to coordinate practice sessions.  \n\n5. Orchestra will NOT be provided or allowed, so also self-guitar or any other instrumental support for Non classical vocal singing (East/West, Solo/Group). Participants may sing with or without Karaoke.   \n\n6. Only bonafide full time students of Manipal University/its sister Institutions that are enrolled for a degree or postgraduate degree/diploma or any course of minimum 6 months duration will be eligible to participate in the intercollegiate cultural competitions.  \n\n7. All participants must possess the ID Cards along with them, all the time.  \n\n8. There is NO Spot registration for any event. There is no registration fee for any event. However participants must register before March 31, 2016 through an Institution or Group of Departments as approved earlier by the university.  \n\n9.	All participants should report half an hour before the start of an event and be ready to perform else they will be given walk over and won’t be allowed to participate at a later slot. If a participant is given walk over the next participant should be ready to perform immediately, else will face walkover.  \n\n10. Staff coordinators should submit audio files of items in MP3 format ONLY by 2pm of the day of scheduled item to AV desk to avoid undue delay in starting of the event or a particular item; else they will be given walk over and disqualified for the event.   \n\n11. The organizers are not responsible for the participant’s inability to participate in an event if its schedule clashes with another event (it is advised to give chance to wider cross section of students instead of repeating same students).  \n\n12. The event will be cancelled if there are less than 3 entries.  \n\n13. Top 3 colleges will receive Champions Rolling Trophies (Winners, 1st Runner Up and 2nd Runner Up) based on total points scored.   \n\n14. When positions are shared, points will not be shared. Decision of the judges will be final and binding. However in the event of any genuine dispute or objection ONLY staff coordinator of the college may submit a memorandum in writing to the Chairman CCC within an hour of announcing the results. The matter shall be reviewed by the Panel of Referees consisting of the Chairman CCC, Secretary CCC and one of the Judges of the particular event (subjected to availability), and if found genuine the position may be reviewed and changed. But if the objection is deemed incorrect the objecting team would lose the given position and the next team will be considered for their position.  \n\n15. MU CCC is not responsible for any loss of valuables and belongings of participants.  \n\n16. MU CCC will book the hostel accommodation on request for outstation participants. However participating institutions will have to pay for the travel, accommodation, food and incidental charges.   \n\n17. MU CCC will provide basic infra-structure (stage, light, sound) only. All other requirements should be arranged by their respective colleges.  \n\n18. Participants are requested to strictly adhere to the rules by letter and spirit. Staff coordinators are requested to ensure the same. They are advised to screen all performances before registering. This is to ensure level playing field and avoid disputes and controversies.   \n\n19. The Staff Coordinator should take the responsibility of violation of rules and its consequences. In any case MU CCC can’t be held responsible for violation of rules by participants.   \n\n20. Participants shall not reveal their own or their college identity in any manner. They shall also not air their religious, national, political, personal views or touch on sensitive issues. Vulgarity/obscenity in concept, dress, talk and action are strictly prohibited. The individual/team may be asked to stop the item during the show and/or disqualified even after winning the prize if found violating the rules.   \n\n21. All are requested to accept victory with humility and loss with grace and sportive spirit. Expression of joy and sorrow in unruly/violent manner shall disqualify the college from winning the trophy. The staff coordinators are requested to control the students and not indulge in instigating the students themselves.  \n\n22. In keeping with the objective of timely conduct of events, a system of negative marking will be followed for all the events where applicable: \nMinus 5 for time exceeded in the range 0–15 seconds, minus 10 for time exceeded in the range of 15–30 seconds, minus 15 for time exceeded in the range 30–45 seconds, and in such progression."
+        android:id="@+id/editText3"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="18sp" />
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,970 @@
+[
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cartoon.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_cartoon.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_quiz.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_quiz.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\punith.jpg",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\punith.jpg"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_creative_jam.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_creative_jam.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_paint.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_paint.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_exit.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_exit.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\adithya.jpg",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\adithya.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msg.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\msg.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_design_call.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\button_design_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_classical_dance_solo.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_classical_dance_solo.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_street_play.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_street_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash7.jpg",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\splash7.jpg"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash6.jpg",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\splash6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_events.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_events.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_vocal_solo_sing.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_vocal_solo_sing.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\adithya.jpg",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\adithya.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_rangoli.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_rangoli.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_developers.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_developers.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_group_vocal.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_group_vocal.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_spt_pht.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_spt_pht.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ant_final.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_ant_final.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_map.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_map.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_potp.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_potp.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_group_vocal_western.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_group_vocal_western.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash0.jpg",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\splash0.jpg"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_solo_clss.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_solo_clss.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_design.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\frame_design.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_prizeee.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_prizeee.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_spt_pht.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_spt_pht.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mime.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_mime.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_prizeee.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_prizeee.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.jpg",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_prize1.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_prize1.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collage.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_collage.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_poetry.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_poetry.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_classical_dance_solo.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_classical_dance_solo.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash7.jpg",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\splash7.jpg"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\call.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash4.jpg",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\splash4.jpg"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_installation.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_installation.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_contacts.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_contacts.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_exit.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_exit.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_quiz_finals.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_quiz_finals.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pottery.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_pottery.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_group.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_group.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_vocal_solo.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_vocal_solo.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\akshath.JPG",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\akshath.JPG"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cul_pro.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_cul_pro.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_paint.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_paint.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pottery.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_pottery.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash1.jpg",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\splash1.jpg"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_hindi_poetry.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_hindi_poetry.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_debate.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_debate.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ajay.jpg",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ajay.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash2.jpg",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\splash2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cur_position.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\cur_position.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_design_msg.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\button_design_msg.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_design_msg.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\button_design_msg.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_creative_jam.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_creative_jam.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_solo_western.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_solo_western.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_extempore.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_extempore.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash1.jpg",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\splash1.jpg"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_western.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_western.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cellborder.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\cellborder.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_quiz.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_quiz.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_solo_western.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_solo_western.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_indian_non_classical.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_indian_non_classical.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mimcry.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_mimcry.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collage.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_collage.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_about.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_about.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fashion_show.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_fashion_show.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_group_vocal_western.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_group_vocal_western.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msg.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\msg.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_registration.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_registration.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mime.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_mime.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arpitha.jpg",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\arpitha.jpg"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cul_pro.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_cul_pro.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_potp.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_potp.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\punith.jpg",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\punith.jpg"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_group_vocal.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_group_vocal.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_rules.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_rules.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cellborder.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\cellborder.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash2.jpg",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\splash2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backdrop.jpg",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\backdrop.jpg"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash0.jpg",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\splash0.jpg"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_developers.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_developers.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash5.jpg",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\splash5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash3.jpg",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\splash3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_inst.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_inst.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\valuecellborder.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\valuecellborder.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_contacts.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_quiz_finals.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_quiz_finals.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_western.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_western.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_indian_non_classical.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_indian_non_classical.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_hindi_poetry.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_hindi_poetry.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash3.jpg",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\splash3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\valuecellborder.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\valuecellborder.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_vocal_solo_sing.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_vocal_solo_sing.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_antakshari.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_antakshari.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.jpg",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_design.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\frame_design.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_events.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_events.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fashion_show.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_fashion_show.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash4.jpg",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\splash4.jpg"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mad_ads.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_mad_ads.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_registration.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_registration.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_prize.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_prize.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\akshath.JPG",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\akshath.JPG"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_about.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_about.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cartoon.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_cartoon.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_street_play.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_street_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mad_ads.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_mad_ads.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash5.jpg",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\splash5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_design_call.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\button_design_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feedback.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\feedback.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feedback.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\feedback.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_group.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_group.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_rules.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_rules.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_rangoli.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_rangoli.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cur_position.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\cur_position.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_poetry.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_poetry.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_prize.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_prize.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arpitha.jpg",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\arpitha.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_extempore.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_extempore.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_duet_dance.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_duet_dance.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_debate.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_debate.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_map.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mimcry.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_mimcry.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_prize1.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_prize1.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_installation.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_installation.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backdrop.jpg",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\backdrop.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_antakshari.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_antakshari.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ant_final.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_ant_final.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ajay.jpg",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ajay.jpg"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_vocal_solo.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_vocal_solo.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash6.jpg",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\splash6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_solo_clss.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_solo_clss.png"
+    },
+    {
+        "merged": "E:\\Utsav Application\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_inst.png",
+        "source": "E:\\Utsav Application\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_inst.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_duet_dance.png",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\src\\main\\res\\drawable\\ic_duet_dance.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Akshath\\Desktop\\Backup\\Utsav2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    }
+]

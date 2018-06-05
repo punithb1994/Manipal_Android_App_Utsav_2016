@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+         android:id="@+id/g1"
+       >
+        <item
+            android:id="@+id/nav_1"
+            android:icon="@drawable/ic_home"
+            android:title="@string/nav_1"/>
+        <item
+            android:id="@+id/nav_2"
+            android:icon="@drawable/ic_events"
+            android:title="@string/nav_2"/>
+        <item
+            android:id="@+id/nav_3"
+            android:icon="@drawable/ic_map"
+            android:title="@string/nav_3"/>
+        <item
+            android:id="@+id/nav_4"
+            android:icon="@drawable/ic_contacts"
+            android:title="@string/nav_4"/>
+    </group>
+
+    <item android:title="@string/nav_sub_heading">
+        <menu>
+            <item
+                android:id="@+id/nav_5"
+                android:icon="@drawable/ic_rules"
+                android:title="@string/nav_5"/>
+            <item
+                android:id="@+id/nav_6"
+                android:icon="@drawable/feedback"
+                android:title="@string/nav_6"/>
+            <item
+                android:id="@+id/nav_7"
+                android:icon="@drawable/ic_developers"
+                android:title="@string/nav_7"/>
+            <item
+                android:id="@+id/nav_8"
+                android:icon="@drawable/ic_exit"
+                android:title="@string/nav_8"/>
+        </menu>
+    </item>
+</menu>

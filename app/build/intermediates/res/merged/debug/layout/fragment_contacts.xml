@@ -1,0 +1,1683 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:id="@+id/frm1"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/frame_design"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="15dp"
+                android:weightSum="2"
+                android:id="@+id/ln1">
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="25dp"
+                    android:ems="10"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1.75"
+                    android:textAlignment="center"
+                    android:id="@+id/editText1"
+                    android:text="Dr. Shobha Kamath"
+                    android:textSize="17sp"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="35dp">
+            <TextView
+                android:layout_width="120dp"
+                android:layout_height="25dp"
+                android:inputType="number"
+                android:layout_marginRight="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_weight="0.25"
+                android:textAlignment="center"
+                android:ems="10"
+                android:id="@+id/editText2"
+                android:text="+919845865848"
+                android:textSize="15sp"
+                android:textStyle="bold"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="55dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:ems="10"
+                android:textAlignment="center"
+                android:layout_marginStart="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginEnd="5dp"
+                android:id="@+id/editText3"
+                android:text="Chairperson, Utsav 2016"
+                android:textSize="15sp"
+                android:textStyle="bold"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="2">
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:text="Call"
+                android:id="@+id/button1"
+                android:layout_weight="1"
+                android:background="@drawable/button_design_call"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="80dp"/>
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:text="Message"
+                android:id="@+id/button2"
+                android:layout_weight="1"
+                android:background="@drawable/button_design_msg"
+                android:layout_marginTop="80dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"/>
+        </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:id="@+id/frm2"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/frm1"
+        android:background="@drawable/frame_design"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/ln2"
+            android:weightSum="2"
+            android:layout_marginTop="15dp">
+            <TextView
+                android:layout_width="200dp"
+                android:layout_height="25dp"
+                android:ems="10"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="1.75"
+                android:textAlignment="center"
+                android:id="@+id/editText4"
+                android:text="Dr. Suma Nair"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+            </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="35dp">
+
+            <TextView
+                android:layout_width="120dp"
+                android:layout_height="25dp"
+                android:inputType="number"
+                android:ems="10"
+                android:layout_marginRight="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_weight="0.25"
+                android:textAlignment="center"
+                android:id="@+id/editText5"
+                android:text="+919945677891"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="55dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:ems="10"
+                android:textAlignment="center"
+                android:layout_marginStart="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginEnd="5dp"
+                android:id="@+id/editText6"
+                android:text="Vice Chairperson, Utsav 2016"
+                android:textSize="15sp"
+                android:textStyle="bold"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="2">
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:text="Call"
+            android:id="@+id/button3"
+            android:layout_weight="1"
+            android:background="@drawable/button_design_call"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="80dp"
+            />
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:text="Message"
+            android:id="@+id/button4"
+            android:layout_weight="1"
+            android:background="@drawable/button_design_msg"
+            android:layout_marginTop="80dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"/>
+        </LinearLayout>
+    </FrameLayout>
+
+        <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:id="@+id/frm3"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/frm2"
+        android:background="@drawable/frame_design"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/ln3"
+            android:weightSum="2"
+            android:layout_marginTop="15dp">
+            <TextView
+                android:layout_width="200dp"
+                android:layout_height="25dp"
+                android:ems="10"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="1.75"
+                android:textAlignment="center"
+                android:id="@+id/editText7"
+                android:text="Mr. Sambit Dash"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="35dp">
+
+            <TextView
+                android:layout_width="120dp"
+                android:layout_height="25dp"
+                android:inputType="number"
+                android:ems="10"
+                android:id="@+id/editText8"
+                android:layout_marginRight="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_weight="0.25"
+                android:textAlignment="center"
+                android:text="+919986104763"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="55dp"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:ems="10"
+                android:textAlignment="center"
+                android:layout_marginStart="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginEnd="5dp"
+                android:id="@+id/editText9"
+                android:text="Secretary, Utsav 2016"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="2">
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:text="Call"
+            android:id="@+id/button5"
+            android:layout_weight="1"
+            android:background="@drawable/button_design_call"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="80dp"
+            />
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:text="Message"
+            android:id="@+id/button6"
+            android:layout_weight="1"
+            android:background="@drawable/button_design_msg"
+            android:layout_marginTop="80dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"/>
+        </LinearLayout>
+    </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:id="@+id/frm4"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/frm3"
+            android:background="@drawable/frame_design"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/ln4"
+                android:weightSum="2"
+                android:layout_marginTop="15dp">
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="25dp"
+                    android:ems="10"
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/editText10"
+                    android:layout_weight="1.75"
+                    android:textAlignment="center"
+                    android:text="Ms. Salma Taj"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+                </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="35dp">
+
+                <TextView
+                    android:layout_width="120dp"
+                    android:layout_height="25dp"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:id="@+id/editText11"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="0.25"
+                    android:textAlignment="center"
+                    android:text="+919900816188"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:textAlignment="center"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/editText12"
+                    android:text="Event Head of Painting and Cartooning"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="2">
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Call"
+                    android:id="@+id/button7"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_call"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="80dp"
+                    />
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Message"
+                    android:id="@+id/button8"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_msg"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"/>
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:id="@+id/frm5"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/frm4"
+            android:background="@drawable/frame_design"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/ln5"
+                android:weightSum="2"
+                android:layout_marginTop="15dp">
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="25dp"
+                    android:ems="10"
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/editText13"
+                    android:layout_weight="1.75"
+                    android:textAlignment="center"
+                    android:text="Ms. Winniecia Dkhar"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+                </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="35dp">
+
+                <TextView
+                    android:layout_width="120dp"
+                    android:layout_height="25dp"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:id="@+id/editText14"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="0.25"
+                    android:textAlignment="center"
+                    android:text="+918095372184"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:textAlignment="center"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/editText15"
+                    android:text="Event Head of Debate, Extempore and Western/Non Indian Vocal(Solo and Group)"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="2">
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Call"
+                    android:id="@+id/button9"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_call"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="80dp"
+                    />
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Message"
+                    android:id="@+id/button10"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_msg"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"/>
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:id="@+id/frm6"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/frm5"
+            android:background="@drawable/frame_design"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/ln6"
+                android:weightSum="2"
+                android:layout_marginTop="15dp">
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="25dp"
+                    android:ems="10"
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/editText16"
+                    android:layout_weight="1.75"
+                    android:textAlignment="center"
+                    android:text="Dr. Blessy Prabha Valsaraj"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+                </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="35dp">
+
+                <TextView
+                    android:layout_width="120dp"
+                    android:layout_height="25dp"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:id="@+id/editText17"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="0.25"
+                    android:textAlignment="center"
+                    android:text="+919945193662"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:textAlignment="center"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/editText18"
+                    android:text="Event Head of Instrumental(Solo) and Clay Modeling"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="2">
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Call"
+                    android:id="@+id/button11"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_call"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="80dp"
+                    />
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Message"
+                    android:id="@+id/button12"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_msg"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"/>
+            </LinearLayout>
+        </FrameLayout>
+
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:id="@+id/frm7"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/frm6"
+            android:background="@drawable/frame_design"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/ln7"
+                android:weightSum="2"
+                android:layout_marginTop="15dp">
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="25dp"
+                    android:ems="10"
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/editText19"
+                    android:layout_weight="1.75"
+                    android:textAlignment="center"
+                    android:text="Ms. Kavita Nagasampige"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+                </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="35dp">
+
+                <TextView
+                    android:layout_width="120dp"
+                    android:layout_height="25dp"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:id="@+id/editText20"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="0.25"
+                    android:textAlignment="center"
+                    android:text="+919448775053"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:textAlignment="center"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/editText21"
+                    android:text="Event Head of Pot Pourri, Jam and Mad Ads"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="2">
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Call"
+                    android:id="@+id/button13"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_call"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="80dp"
+                    />
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Message"
+                    android:id="@+id/button14"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_msg"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"/>
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:id="@+id/frm8"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/frm7"
+            android:background="@drawable/frame_design"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/ln8"
+                android:weightSum="2"
+                android:layout_marginTop="15dp">
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="25dp"
+                    android:ems="10"
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/editText22"
+                    android:layout_weight="1.75"
+                    android:textAlignment="center"
+                    android:text="Dr. Chandini Gupta"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+                </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="35dp">
+
+                <TextView
+                    android:layout_width="120dp"
+                    android:layout_height="25dp"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:id="@+id/editText23"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="0.25"
+                    android:textAlignment="center"
+                    android:text="+919886738555"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:textAlignment="center"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/editText24"
+                    android:text="Event Head of Cultural Parade and Fashion Show"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="2">
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Call"
+                    android:id="@+id/button15"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_call"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="80dp"
+                    />
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Message"
+                    android:id="@+id/button16"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_msg"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"/>
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:id="@+id/frm9"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/frm8"
+            android:background="@drawable/frame_design"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/ln9"
+                android:weightSum="2"
+                android:layout_marginTop="15dp">
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="25dp"
+                    android:ems="10"
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/editText25"
+                    android:layout_weight="1.75"
+                    android:textAlignment="center"
+                    android:text="Dr. B. Suresh Kumar Shetty"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="35dp">
+
+                <TextView
+                    android:layout_width="120dp"
+                    android:layout_height="25dp"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:id="@+id/editText26"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="0.25"
+                    android:textAlignment="center"
+                    android:text="+919886092392"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:textAlignment="center"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/editText27"
+                    android:text="Event Head of Indian Classical and Non Classical Light Vocal(Solo and Group)"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="2">
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Call"
+                    android:id="@+id/button17"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_call"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="80dp"
+                    />
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Message"
+                    android:id="@+id/button18"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_msg"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"/>
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:id="@+id/frm10"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/frm9"
+            android:background="@drawable/frame_design"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/ln10"
+                android:weightSum="2"
+                android:layout_marginTop="15dp">
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="25dp"
+                    android:ems="10"
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/editText28"
+                    android:layout_weight="1.75"
+                    android:textAlignment="center"
+                    android:text="Mr. John Benette John"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="35dp">
+
+                <TextView
+                    android:layout_width="120dp"
+                    android:layout_height="25dp"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:id="@+id/editText29"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="0.25"
+                    android:textAlignment="center"
+                    android:text="+918971028721"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:textAlignment="center"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/editText30"
+                    android:text="Event Head of Rangoli, Collage, Creative Jam, Indian Classical and Non Classical Dance(Solo) and Western/Non Indian Dance(Solo and Group)"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="2">
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Call"
+                    android:id="@+id/button19"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_call"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="80dp"
+                    />
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Message"
+                    android:id="@+id/button20"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_msg"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"/>
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:id="@+id/frm11"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/frm10"
+            android:background="@drawable/frame_design"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/ln11"
+                android:weightSum="2"
+                android:layout_marginTop="15dp">
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="25dp"
+                    android:ems="10"
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/editText31"
+                    android:layout_weight="1.75"
+                    android:textAlignment="center"
+                    android:text="Dr. A. Muthusamy"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="35dp">
+
+                <TextView
+                    android:layout_width="120dp"
+                    android:layout_height="25dp"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:id="@+id/editText32"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="0.25"
+                    android:textAlignment="center"
+                    android:text="+919448763720"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:textAlignment="center"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/editText33"
+                    android:text="Event Head of Quiz"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="2">
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Call"
+                    android:id="@+id/button21"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_call"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="80dp"
+                    />
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Message"
+                    android:id="@+id/button22"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_msg"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"/>
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:id="@+id/frm12"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/frm11"
+            android:background="@drawable/frame_design"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/ln12"
+                android:weightSum="2"
+                android:layout_marginTop="15dp">
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="25dp"
+                    android:ems="10"
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/editText34"
+                    android:layout_weight="1.75"
+                    android:textAlignment="center"
+                    android:text="Dr. Mithun Pai"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="35dp">
+
+                <TextView
+                    android:layout_width="120dp"
+                    android:layout_height="25dp"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:id="@+id/editText35"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="0.25"
+                    android:textAlignment="center"
+                    android:text="+919591955595"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:textAlignment="center"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/editText36"
+                    android:text="Event Head of Antakshari"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="2">
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Call"
+                    android:id="@+id/button23"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_call"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="80dp"
+                    />
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Message"
+                    android:id="@+id/button24"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_msg"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"/>
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:id="@+id/frm13"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/frm12"
+            android:background="@drawable/frame_design"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/ln13"
+                android:weightSum="2"
+                android:layout_marginTop="15dp">
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="25dp"
+                    android:ems="10"
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/editText37"
+                    android:layout_weight="1.75"
+                    android:textAlignment="center"
+                    android:text="Dr. Alex Joseph"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="35dp">
+
+                <TextView
+                    android:layout_width="120dp"
+                    android:layout_height="25dp"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:id="@+id/editText38"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="0.25"
+                    android:textAlignment="center"
+                    android:text="+919448548060"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:textAlignment="center"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/editText39"
+                    android:text="Event Head of Indian Non Classical Dance(Group)"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="2">
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Call"
+                    android:id="@+id/button25"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_call"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="80dp"
+                    />
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Message"
+                    android:id="@+id/button26"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_msg"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"/>
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:id="@+id/frm14"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/frm13"
+            android:background="@drawable/frame_design"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/ln14"
+                android:weightSum="2"
+                android:layout_marginTop="15dp">
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="25dp"
+                    android:ems="10"
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/editText40"
+                    android:layout_weight="1.75"
+                    android:textAlignment="center"
+                    android:text="Dr. Mohandas Rao KG"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="35dp">
+
+                <TextView
+                    android:layout_width="120dp"
+                    android:layout_height="25dp"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:id="@+id/editText41"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="0.25"
+                    android:textAlignment="center"
+                    android:text="+919741988839"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:textAlignment="center"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/editText42"
+                    android:text="Event Head of Spot Photography and Installation"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="2">
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Call"
+                    android:id="@+id/button27"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_call"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="80dp"
+                    />
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Message"
+                    android:id="@+id/button28"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_msg"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"/>
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:id="@+id/frm15"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/frm14"
+            android:background="@drawable/frame_design"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/ln15"
+                android:weightSum="2"
+                android:layout_marginTop="15dp">
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="25dp"
+                    android:ems="10"
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/editText43"
+                    android:layout_weight="1.75"
+                    android:textAlignment="center"
+                    android:text="Dr. Arun Urala"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="35dp">
+
+                <TextView
+                    android:layout_width="120dp"
+                    android:layout_height="25dp"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:id="@+id/editText44"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="0.25"
+                    android:textAlignment="center"
+                    android:text="+919900173670"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:textAlignment="center"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/editText45"
+                    android:text="Event Head of Poetry, Mime and Street Play"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="2">
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Call"
+                    android:id="@+id/button29"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_call"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="80dp"
+                    />
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Message"
+                    android:id="@+id/button30"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_msg"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"/>
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:id="@+id/frm16"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/frm15"
+            android:background="@drawable/frame_design"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/ln16"
+                android:weightSum="2"
+                android:layout_marginTop="15dp">
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="25dp"
+                    android:ems="10"
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/editText46"
+                    android:layout_weight="1.75"
+                    android:textAlignment="center"
+                    android:text="Mr. Darryl Jeethesh D’Souza"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="35dp">
+
+                <TextView
+                    android:layout_width="120dp"
+                    android:layout_height="25dp"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:id="@+id/editText47"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="0.25"
+                    android:textAlignment="center"
+                    android:text="+919986382162"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:textAlignment="center"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/editText48"
+                    android:text="Event Head of Mimicry"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="2">
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Call"
+                    android:id="@+id/button31"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_call"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="80dp"
+                    />
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Message"
+                    android:id="@+id/button32"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_msg"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"/>
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:id="@+id/frm17"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/frm16"
+            android:background="@drawable/frame_design"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/ln17"
+                android:weightSum="2"
+                android:layout_marginTop="15dp">
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="25dp"
+                    android:ems="10"
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/editText49"
+                    android:layout_weight="1.75"
+                    android:textAlignment="center"
+                    android:text="Ms. Anusha Pai"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="35dp">
+
+                <TextView
+                    android:layout_width="120dp"
+                    android:layout_height="25dp"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:id="@+id/editText50"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="0.25"
+                    android:textAlignment="center"
+                    android:text="+919886017745"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:textAlignment="center"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/editText51"
+                    android:text="Event Head of Duet Dance and Fashion Show"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="2">
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Call"
+                    android:id="@+id/button33"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_call"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="80dp"
+                    />
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Message"
+                    android:id="@+id/button34"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_design_msg"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"/>
+            </LinearLayout>
+        </FrameLayout>
+    </RelativeLayout>
+</ScrollView>

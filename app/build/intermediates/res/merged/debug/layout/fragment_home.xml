@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/scrollView2" >
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="&quot;Reason to celebrate&quot;"
+                android:gravity="end"
+                android:id="@+id/txtreason"
+                android:textSize="25sp"
+                android:textColor="@color/colorPrimary"
+                android:textStyle="bold|italic"
+                android:paddingRight="15dp"
+                />
+        </RelativeLayout>
+        <ViewFlipper
+            android:id="@+id/flipper1"
+            android:layout_width="fill_parent"
+            android:layout_height="240dp"
+            android:flipInterval="3000"
+            android:inAnimation="@android:anim/slide_in_left"
+            android:outAnimation="@android:anim/slide_out_right"
+            android:layout_alignParentTop="true"
+            android:paddingTop="30dp">
+
+            <ImageView
+                android:src="@drawable/splash0"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:contentDescription="@string/str_img1"
+                android:layout_gravity="center_horizontal"
+                />
+
+            <ImageView
+                android:src="@drawable/splash1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:contentDescription="@string/str_img2"
+                android:layout_gravity="center_horizontal"
+                />
+
+            <ImageView
+                android:src="@drawable/splash2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:contentDescription="@string/str_img3"
+                android:layout_gravity="center_horizontal"
+                />
+
+            <ImageView
+                android:src="@drawable/splash3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/str_img4"
+                android:layout_gravity="center_horizontal"
+                />
+
+            <ImageView
+                android:src="@drawable/splash4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:contentDescription="@string/str_img5"
+                android:layout_gravity="center_horizontal"
+                />
+
+            <ImageView
+            android:src="@drawable/splash5"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/str_img5"
+            android:layout_gravity="center_horizontal"
+            />
+
+            <ImageView
+                android:src="@drawable/splash6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:contentDescription="@string/str_img5"
+                android:layout_gravity="center_horizontal"
+                />
+
+
+            <ImageView
+                android:src="@drawable/splash7"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:contentDescription="@string/str_img5"
+                android:layout_gravity="center_horizontal"
+                />
+
+        </ViewFlipper>
+
+        <LinearLayout
+            android:id="@+id/Ln1"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:layout_below="@+id/textviewwriteup"
+            >
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/button_events"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:padding="12dp"
+                android:textStyle="bold"
+                android:textColor="@android:color/white"
+                android:background="#FF5722"
+                style="?android:attr/borderlessButtonStyle"
+                android:text="GALLERY"/>
+
+
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/button_schedule"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:padding="12dp"
+                style="?android:attr/borderlessButtonStyle"
+                android:textStyle="bold"
+                android:textColor="@android:color/white"
+                android:background="#FF5722"
+                android:text="EVENTS"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/Ln2"
+            android:layout_marginTop="20dp"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/Ln1"
+            >
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/button_maps"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:padding="12dp"
+                style="?android:attr/borderlessButtonStyle"
+                android:textStyle="bold"
+                android:textColor="@android:color/white"
+                android:background="#FF5722"
+                android:text="MAPS"/>
+
+
+
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/button_about"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:padding="12dp"
+                style="?android:attr/borderlessButtonStyle"
+                android:textStyle="bold"
+                android:textColor="@android:color/white"
+                android:background="#FF5722"
+                android:text="RESULTS"/>
+
+
+        </LinearLayout>
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/flipper1"
+    android:textColor="@color/colorPrimaryDark"
+    android:gravity="right"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:textAlignment="center"
+    android:id="@+id/textviewwriteup"
+    android:text="UTSAV – The Annual Inter College Cultural Festival held in Manipal University. Students from all the constituent colleges of the University and also students from our campuses at Bangalore, Sikkim, Nepal, Malaysia and Dubai are invited to participate in this gala event."
+    android:textSize="16sp"
+    android:textStyle="bold" />
+
+    </RelativeLayout>
+</ScrollView>

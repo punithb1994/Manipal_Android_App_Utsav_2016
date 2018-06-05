@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E64A19</color>
+    <color name="colorPrimaryDark">#FF5722</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorblue">#2567ea</color>
+    <color name="lightorange">#ffb732</color>
+    <color name="main">#c4c3c1</color>
+    <color name="red">#f50b17</color>
+    <color name="green">#f9f908</color>
+    <color name="roundborder">#585555</color>
+    <color name="brown">#e6cbcb</color>
+    <color name="black">#000000</color>
+    <color name="splashscreen">#ffffff</color>
+    <color name="utsav2016">#757575</color>
+</resources>
