@@ -1,12 +1,15 @@
 # Read Me to understand what Utsav 2016 application is!
 
+
 Hi! I'm here with our first Android App repository, this app was developed in 2016 for Manipal College fest named Utsav.
 We were three friends Akshath, Ajay and me. We were too excited to develop this project.
 
 
 Utsav is an Annual Inter College Cultural Festival is the flagship cultural event held in the University. Students from all the constituent colleges of the University and also students from our campuses at Bangalore, Sikkim, Nepal, Malaysia and Dubai are invited to participate in this gala event. 
 
+
 Utsav 2016 is an Android application developed for displaying information of the event schedule, venues, images and the results. This app intends to solve the problems of propagating news and information regarding the fest.
+
 
 - Utsav 2016 Android application provides a medium where one can get the schedule of an event by just opening the application without the internet connection
 
