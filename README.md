@@ -1,6 +1,7 @@
 # Welcome to Utsav 2016
 
-Hi! I'm here with my first Android App repository, this app was developed in 2016 for Manipal College fest named Utsav
+Hi! I'm here with our first Android App repository, this app was developed in 2016 for Manipal College fest named Utsav.
+We were three friends Akshath, Ajay and me. We were too excited to develop this project.
 
 
 Utsav is an Annual Inter College Cultural Festival is the flagship cultural event held in the University. Students from all the constituent colleges of the University and also students from our campuses at Bangalore, Sikkim, Nepal, Malaysia and Dubai are invited to participate in this gala event. 
