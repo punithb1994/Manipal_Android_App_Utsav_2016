@@ -1,4 +1,4 @@
-# Read Me to understand what Utsav 2016 application is!
+# Read Me to know what this development is all about!
 
 
 Hi! I'm here with our first Android App repository, this app was developed in 2016 for Manipal College fest named Utsav.
