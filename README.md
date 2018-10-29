@@ -1,6 +1,6 @@
 # What this Repository/Project/Development is all about!
 
-This is our first Github Repository, this Android app was developed in March 2016 for Manipal College fest - Utsav.
+This is our first Github Repository, this Android app was developed in March 2016 for Manipal University - Annual fest - Utsav.
 
 Utsav is an Annual Inter College Cultural Festival is the flagship cultural event held in the University. Students from all the constituent colleges of the University and also students from our campuses at Bangalore, Sikkim, Nepal, Malaysia and Dubai are invited to participate in this gala event. 
 
@@ -14,6 +14,7 @@ Utsav 2016 is an Android application developed for displaying information of the
 
 - To make an easy and instant notification of status, messages and changes in time and venue
 
+- Project handled by Department of Computer Application - Manipal Institute of Technology
 
 
 Developed by 3 members
