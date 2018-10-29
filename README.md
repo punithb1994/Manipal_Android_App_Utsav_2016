@@ -14,7 +14,9 @@ Utsav 2016 is an Android application developed for displaying information of the
 
 - To make an easy and instant notification of status, messages and changes in time and venue
 
-- Developed in a group of 3 members
+
+
+Developed in a group of 3 members
 
 Punith - https://www.facebook.com/punithb1994
 
