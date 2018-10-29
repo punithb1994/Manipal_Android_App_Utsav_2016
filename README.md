@@ -16,6 +16,7 @@ Utsav 2016 is an Android application developed for displaying information of the
 
 - Project handled by Department of Computer Application - Manipal Institute of Technology
 
+- Please find project documentation under "Documentation" folder
 
 Developed by 3 members
 
