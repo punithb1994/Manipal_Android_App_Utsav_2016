@@ -1,4 +1,4 @@
-# What this development is all about!
+# What this Repository/Project/Development is all about!
 
 This is our first Github Repository, this Android app was developed in March 2016 for Manipal College fest - Utsav.
 
